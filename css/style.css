@@ -69,33 +69,33 @@ background-color: #f2e0d2;border-bottom: 1px solid #d2a679;
 .coffeeul2 li:nth-child(1){margin-right:200px;}
 .coffeeul2 li:nth-child(2){position: absolute;top: 0;left: 750px; margin-top: 120px;text-align: left;}
 
-.balance{width: 1320px;margin: 150px auto;height: 750px;box-sizing: border-box;}
+#balance{width: 1320px;margin: 150px auto;height: 750px;box-sizing: border-box;}
 .balancetext{font-size: 20px;font-weight: bold;padding: 10px;display: inline-block;border-bottom: 3px solid #333;margin-bottom:150px; }
 .balanceul li{float: left;}
 .balanceul li:nth-child(1){margin-top: 150px; margin-right: 90px;position: relative;}
 .balanceul li:nth-child(3){margin-top: 150px;margin-left:90px;position: relative;}
 .bltext{position: absolute;top: 20px;left: 10px;color: #ccc;font-size: 17px;line-height: 30px;}
 .brtext{position: absolute;top: 20px;left:57px;color: #ccc;font-size: 17px;line-height: 30px;}
-.map{width: 1320px;margin:100px auto;height: 950px;}
-.blending{width: 1320px;margin: 100px auto;height: 900px;}
+#map{width: 1320px;margin:100px auto;height: 950px;}
+#blending{width: 1320px;margin: 100px auto;height: 900px;}
 
 .blendingul li{float: left;width:380px;height: 500px; text-align: center;border: 1px solid #ccc;padding: 50px 20px;box-sizing: border-box;}
 h3{margin: 50px 0;}
 .blendingul li:nth-child(2){margin:0 50px;}
-.sb{width:100%;margin: 0 auto;height: 520px;position: relative;}
+#sb{width:100%;margin: 0 auto;height: 520px;position: relative;}
 
 h5{color: #4b220b;font-size: 20px;font-weight: bold;position: absolute;top:40px ;left:374px;line-height: 30px;}
 .sbtext{position: absolute;top: 120px;left: 374px;line-height: 30px;font-size: 16px;}
 
-.roasting{width: 1320px;margin: 0 auto;height:1200px;}
+#roasting{width: 1320px;margin: 0 auto;height:1200px;}
 
-.roasting li{float: left;width:400px;height: 450px;}
-.roasting li:nth-child(1){position: relative;}
-.roasting li:nth-child(2){position: relative;margin: 0 60px;}
-.roasting li:nth-child(3){position: relative;}
-.roasting li:nth-child(4){position: relative;}
-.roasting li:nth-child(5){position: relative;margin: 0 60px;}
-.roasting li:nth-child(6){position: relative;}
+.roawting li{float: left;width:400px;height: 450px;}
+.roawting li:nth-child(1){position: relative;}
+.roawting li:nth-child(2){position: relative;margin: 0 60px;}
+.roawting li:nth-child(3){position: relative;}
+.roawting li:nth-child(4){position: relative;}
+.roawting li:nth-child(5){position: relative;margin: 0 60px;}
+.roawting li:nth-child(6){position: relative;}
 .been1{position: absolute;top: 0;left: 50px;z-index: 1;}
 .been1_1{position: absolute;top: 30px;left: 0;}
 h4{margin-top: 200px;margin-left: 150px;font-size: 22px;}
