@@ -2,7 +2,7 @@
 ul{list-style:none;}
 a{text-decoration:none; color:#000;}
 
-body{color:#333;height:4000px;font-family: 'Noto';}
+body{color:#333;font-family: 'Noto';}
 
 #header{width:100%; margin:0 auto;height:134px;background: url(../images/back.png) no-repeat center top;text-align:center;}
 .logo1{padding: 25px 0;margin-right:117px;}
@@ -70,7 +70,7 @@ background-color: #f2e0d2;border-bottom: 1px solid #d2a679;
 .coffeeul2 li:nth-child(2){position: absolute;top: 0;left: 750px; margin-top: 120px;text-align: left;}
 
 #balance{width: 1320px;margin: 150px auto;height: 750px;box-sizing: border-box;}
-.balancetext{font-size: 20px;font-weight: bold;padding: 10px;display: inline-block;border-bottom: 3px solid #333;margin-bottom:150px; }
+.balancetext{font-size: 20px;font-weight: bold;padding: 10px;display: inline-block;border-bottom: 3px solid #4b220b;margin-bottom:150px;color: #462626; }
 .balanceul li{float: left;}
 .balanceul li:nth-child(1){margin-top: 150px; margin-right: 90px;position: relative;}
 .balanceul li:nth-child(3){margin-top: 150px;margin-left:90px;position: relative;}
@@ -105,8 +105,8 @@ h4{margin-top: 200px;margin-left: 150px;font-size: 22px;}
 
 .footerul{width: 1320px;margin: 0 auto;box-sizing: border-box;}
 .footerul li{float: left;}
-.footerlogo{width:300px;height: 300px; margin: 85px 5px;position: relative;}
+.footerlogo{width:300px;margin: 85px 5px;position: relative;}
 
 
-.footertext{width:700px;height: 300px; color: #fff; margin-top:76px;margin-left: -7px;line-height:40px;}
-.insta{width:220px;height: 300px; margin-top: 70px;}
+.footertext{width:700px; color: #fff; margin-top:76px;margin-left: -7px;line-height:40px;}
+.insta{width:220px;margin-top: 70px;}
